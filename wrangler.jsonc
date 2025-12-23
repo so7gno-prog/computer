@@ -1,7 +1,5 @@
 {
     "name": "exp",
     "compatibility_date": "2025-12-23",
-    "assets": {
-        "directory": "./index.html"
-    }
+    "main": "index.html"
 }
